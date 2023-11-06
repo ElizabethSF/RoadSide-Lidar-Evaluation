@@ -8,7 +8,8 @@ Prerequisites：
     ```bash
     pip install -r requirements.txt
     ```
-+ Second, please run the simulation by
++ Second, please get your carla started.
++ Lastly, please run the simulation by
     ```python
     python roadsideLidar.py
     ```
